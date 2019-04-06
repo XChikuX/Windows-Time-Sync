@@ -1,4 +1,4 @@
-# Windows-Time-Sync
+# Windows-Time-Sync :)
 That annoying bug when you Dual boot, Linux and Windows. This script Using the 'Auto-Hotkey' Software will enable you to fix that in a giffy
 ###################NOTE#########################
 This Process once set up, Only requires you to run an .exe to execute the script by double clicking it.
